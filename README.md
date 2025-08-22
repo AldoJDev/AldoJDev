@@ -7,6 +7,19 @@ Currently, I'm applying my knowledge in projects with **Java, Spring Boot, and .
 
 Feel free to explore my projects or get in touch. I'd love to exchange ideas! 🚀
 
+
+obs: In some projects, some commits will be somewhat "artificial" because they are transferring my projects to this GitHub, as my previous one was linked to an institutional account, which will be deleted at the end of the course.
+
+---
+
+Tenho grande interesse na lógica por trás de aplicações e em como construir sistemas que funcionem de forma coesa e eficiente.
+
+Atualmente, estou aplicando meu conhecimento em projetos com **Java, Spring Boot e .NET**, me esforçando para um escrever código mais limpo e organizado.
+
+Sinta-se à vontade para explorar meus projetos ou entrar em contato. Adoraria trocar ideias! 🚀
+
+obs: Em alguns projetos, alguns commits serão um tanto "artificiais", pois estão transferindo meus projetos para este GitHub, já que o anterior estava vinculado a uma conta institucional, que será excluída ao final do curso.
+
 ---
 
 <p align="left">
