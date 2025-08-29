@@ -20,6 +20,6 @@ Sinta-se à vontade para explorar meus projetos ou entrar em contato. Adoraria t
 
 ---
 
-**Observação sobre os commits:** Você notará que em alguns projetos, os commits iniciais podem parecer um pouco "artificiais". Isso ocorre porque estou no processo de transferir meus trabalhos de um **antigo repositório institucional (link aqui: `https://github.com/AldoJunio23`)** para esta nova conta pessoal, visto que o repositório anterior será desativado ao final do meu curso. Agradeço a compreensão!
+**Observação:** Você notará que em alguns projetos, os commits iniciais podem parecer um pouco "artificiais". Isso ocorre porque estou no processo de transferir meus trabalhos de um **antigo repositório institucional (link aqui: `https://github.com/AldoJunio23`)** para esta nova conta pessoal, visto que o repositório anterior será desativado ao final do meu curso. Agradeço a compreensão!
 
 ---
