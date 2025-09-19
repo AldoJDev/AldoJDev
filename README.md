@@ -23,6 +23,4 @@ Sinta-se à vontade para explorar meus projetos ou entrar em contato. Adoraria t
 
 ---
 
-**Observação:** Alguns projetos neste perfil foram migrados do meu repositório institucional anterior (`https://github.com/AldoJunio23`), que será desativado ao final do meu vínculo com a instituição. Por isso, os commits iniciais podem parecer mais recentes do que a data de criação original do projeto. Agradeço a compreensão!
-
----
+**Observação:** Alguns projetos neste perfil foram migrados do meu repositório institucional anterior (`https://github.com/AldoJunio23`), que será desativado ao final do meu vínculo com a instituição. Por isso, os commits iniciais podem parecer mais recentes do que a data de criação original do projeto. Agradeço a compreensão.
