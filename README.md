@@ -13,8 +13,7 @@
 </p>
 
 ### Sobre Mim
-
-Desenvolvedor com foco em ecossistemas **Java com Spring Boot** e **.NET**, e um forte interesse na construção de sistemas coesos e eficientes. Atualmente, dedico-me a aplicar e aprofundar meus conhecimentos, buscando a produção de um código limpo, organizado e de fácil manutenção, em alinhamento com as boas práticas de desenvolvimento.
+Desenvolvedor com foco em **Java & Spring Boot**, **.NET** e **Python**, com interesse na criação de sistemas coesos e eficientes. Atualmente, busco aprimorar meus conhecimentos aplicando boas práticas de desenvolvimento, com ênfase em código limpo, organizado e de fácil manutenção.
 
 Como **Monitor no Colégio Técnico de Campinas (COTUCA/UNICAMP) pelo Programa PADEMT**, tenho a oportunidade de apoiar os alunos na resolução de problemas e no desenvolvimento de algoritmos. Além das monitorias regulares, também conduzo **sessões especiais**, com aulas  sobre temas específicos da área de desenvolvimento.  
 Este repositório funciona como um **acervo central** dos exemplos e materiais utilizados nessas atividades.
