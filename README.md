@@ -12,14 +12,18 @@
   </a>
 </p>
 
-Tenho grande interesse na lógica por trás de aplicações e em como construir sistemas que funcionem de forma coesa e eficiente.
+### Sobre Mim
 
-Atualmente, estou aplicando e aprofundando meu conhecimento em projetos desenvolvidos com **Java, Spring Boot e .NET**. Ultimamente procuro ter um código limpo, organizado e de fácil manutenção, seguindo as boas práticas de desenvolvimento.
+Desenvolvedor com foco em ecossistemas **Java com Spring Boot** e **.NET**, e um forte interesse na construção de sistemas coesos e eficientes. Atualmente, dedico-me a aplicar e aprofundar meus conhecimentos, buscando a produção de um código limpo, organizado e de fácil manutenção, em alinhamento com as boas práticas de desenvolvimento.
+
+Como **Monitor no Colégio Técnico de Campinas (COTUCA/UNICAMP) pelo Programa PADEMT**, tenho a oportunidade de apoiar os alunos na resolução de problemas e no desenvolvimento de algoritmos. Além das monitorias regulares, também conduzo **sessões especiais**, com aulas  sobre temas específicos da área de desenvolvimento.  
+Este repositório funciona como um **acervo central** dos exemplos e materiais utilizados nessas atividades.
+
 
 Sinta-se à vontade para explorar meus projetos ou entrar em contato. Adoraria trocar ideias e discutir oportunidades! 🚀
 
 ---
 
-**Observação:** Você notará que em alguns projetos, os commits iniciais podem parecer um pouco "artificiais". Isso ocorre porque estou no processo de transferir meus trabalhos de um **antigo repositório institucional (link aqui: `https://github.com/AldoJunio23`)** para esta nova conta pessoal, visto que o repositório anterior será desativado ao final do meu curso. Agradeço a compreensão!
+**Observação:** Alguns projetos neste perfil foram migrados do meu repositório institucional anterior (`https://github.com/AldoJunio23`), que será desativado ao final do meu vínculo com a instituição. Por isso, os commits iniciais podem parecer mais recentes do que a data de criação original do projeto. Agradeço a compreensão!
 
 ---
